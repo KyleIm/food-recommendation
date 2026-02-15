@@ -1,0 +1,524 @@
+example 1)
+
+Appetizer: Salad
+Main Dish: Ramen
+Drink: Coca-Cola
+Dessert: Orange
+
+Appetizer–Main Dish Balance (16/20): The light, fresh salad provides a clean contrast to the rich and savory ramen, creating a generally well-structured progression without excessive heaviness.
+
+Main Dish–Drink Balance (14/20): The carbonation and sweetness of Coca-Cola cut through the saltiness and umami of the ramen, though the high sugar level slightly amplifies the overall intensity of the meal.
+
+Main Dish–Dessert Balance (17/20): The citrus brightness of the orange effectively refreshes the palate after the dense broth and noodles, offering a natural and appropriate post-meal contrast.
+
+Appetizer–Dessert Balance (15/20): Both the salad and orange share a fresh and light profile, which maintains consistency but limits dynamic contrast across the meal.
+
+Drink–Dessert Balance (12/20): The combination of Coca-Cola and orange results in overlapping sweetness and acidity, which reduces complexity and risks palate fatigue.
+
+Total Score: 74/100
+
+Overall Evaluation: The menu presents a moderately balanced structure with effective freshness contrasts, though sweetness layering between drink and dessert slightly weakens overall harmony.
+
+example 2)
+
+Appetizer: Corn Soup
+Main Dish: Pizza
+Drink: Red Wine
+Dessert: Grape
+
+Appetizer–Main Dish Balance (14/20): The creamy sweetness of corn soup complements the savory richness of pizza, though the overall carbohydrate density slightly reduces structural contrast.
+
+Main Dish–Drink Balance (18/20): Red wine effectively balances the fat and salt of the pizza through tannin and acidity, creating a refined and synergistic pairing.
+
+Main Dish–Dessert Balance (15/20): Fresh grapes provide a clean and mildly sweet finish after the heaviness of pizza, but the flavor connection remains somewhat indirect.
+
+Appetizer–Dessert Balance (16/20): The natural sweetness of corn and grapes maintains thematic consistency without overwhelming the palate.
+
+Drink–Dessert Balance (17/20): Grapes align harmoniously with red wine in flavor profile and acidity, reinforcing continuity and enhancing overall cohesion.
+
+Total Score: 80/100
+
+Overall Evaluation: The menu demonstrates strong beverage pairing and cohesive fruit integration, with minor heaviness in the appetizer–main transition limiting peak balance.
+
+example 3)
+
+Appetizer: Miso Soup
+Main Dish: Fried Chicken
+Drink: White Wine
+Dessert: Pudding
+
+Appetizer–Main Dish Balance (17/20): The light, umami-rich miso soup prepares the palate effectively for the heavier fried chicken, providing structural contrast and digestive pacing.
+
+Main Dish–Drink Balance (18/20): The acidity and crispness of white wine cut through the fat and salt of fried chicken, creating a clean and technically strong pairing.
+
+Main Dish–Dessert Balance (14/20): The creamy sweetness of pudding contrasts the savory chicken, but the transition from fried texture to dense dairy sweetness lacks refinement.
+
+Appetizer–Dessert Balance (13/20): Miso soup’s savory umami character does not naturally bridge toward the sweet dairy profile of pudding, resulting in limited thematic continuity.
+
+Drink–Dessert Balance (15/20): White wine’s acidity provides some balance against the pudding’s richness, though the pairing depends heavily on the wine’s residual sugar level.
+
+Total Score: 77/100
+
+Overall Evaluation: The menu achieves strong savory structure and beverage alignment.
+
+example 4)
+
+Appetizer: House Bread
+Main Dish: Sandwich
+Drink: Sake
+Dessert: Ice Cream
+
+Appetizer–Main Dish Balance (12/20): House bread and sandwich share similar carbohydrate and textural profiles, resulting in redundancy and limited structural contrast.
+
+Main Dish–Drink Balance (15/20): Sake provides moderate acidity and subtle umami that can complement certain sandwich fillings, though compatibility depends strongly on the sandwich composition.
+
+Main Dish–Dessert Balance (14/20): Ice cream offers a temperature and sweetness contrast to the savory sandwich, but the transition lacks a clear flavor bridge.
+
+Appetizer–Dessert Balance (13/20): The neutral starch profile of bread does not conflict with ice cream, yet it also does not meaningfully enhance the dessert experience.
+
+Drink–Dessert Balance (16/20): Depending on sweetness level, sake can align reasonably well with ice cream by providing smooth alcohol warmth against cold creaminess.
+
+Total Score: 70/100
+
+Overall Evaluation: The menu presents acceptable beverage flexibility but suffers from structural redundancy in the appetizer–main pairing, limiting overall sophistication.
+
+example 5)
+
+Appetizer: Cheese
+Main Dish: T-bone Steak
+Drink: Green Tea
+Dessert: Tart
+
+Appetizer–Main Dish Balance (18/20): The richness and fat content of cheese naturally align with the bold, protein-heavy structure of T-bone steak, creating a coherent and indulgent progression.
+
+Main Dish–Drink Balance (13/20): While green tea provides palate-cleansing tannins, its light body and vegetal notes lack the structural strength to fully complement the intensity of the steak.
+
+Main Dish–Dessert Balance (16/20): The acidity and sweetness of the tart effectively cut through the residual fat of the steak, offering a refreshing and structured finish.
+
+Appetizer–Dessert Balance (17/20): Cheese and tart share compatible richness and acidity dynamics, especially if the tart contains fruit elements that balance dairy fat.
+
+Drink–Dessert Balance (15/20): Green tea’s mild bitterness can contrast the tart’s sweetness, though the pairing is more cleansing than synergistic.
+
+Total Score: 79/100
+
+Overall Evaluation: The menu demonstrates strong structural richness and effective acidity management, though the beverage pairing slightly limits full flavor integration.
+
+example 6)
+
+Appetizer: Cracker
+Main Dish: Sushi
+Drink: Orange Juice
+Dessert: Cheesecake
+
+Appetizer–Main Dish Balance (13/20): The dry and neutral profile of crackers does not conflict with sushi, but it adds little structural or flavor progression to the meal.
+
+Main Dish–Drink Balance (10/20): The high acidity and sweetness of orange juice clash with the delicate umami and subtle texture of sushi, overwhelming its nuanced flavors.
+
+Main Dish–Dessert Balance (14/20): Cheesecake provides richness after sushi, yet the shift from light, clean seafood to dense dairy sweetness feels abrupt and lacks continuity.
+
+Appetizer–Dessert Balance (15/20): Crackers and cheesecake share compatible texture and mild dairy notes, offering moderate structural alignment.
+
+Drink–Dessert Balance (16/20): Orange juice’s acidity can cut through cheesecake’s richness, though the combined sweetness may become slightly excessive.
+
+Total Score: 68/100
+
+Overall Evaluation: The menu lacks cohesion due to beverage mismatch and abrupt flavor transitions, resulting in limited overall harmony despite some workable pairings.
+
+example 7)
+
+Appetizer: Scotch Egg
+Main Dish: Taco
+Drink: Coke Zero
+Dessert: Macaron
+
+Appetizer–Main Dish Balance (15/20): The dense, protein-rich Scotch egg transitions reasonably into the bold and spiced taco, though the cumulative heaviness slightly compresses palate contrast.
+
+Main Dish–Drink Balance (16/20): Coke Zero’s carbonation effectively cleanses the palate after the taco’s fat and spice, but the artificial sweetness limits depth of pairing.
+
+Main Dish–Dessert Balance (14/20): The delicate sweetness of a macaron contrasts the savory taco, yet the shift from robust spice to refined confection feels stylistically disconnected.
+
+Appetizer–Dessert Balance (12/20): The rich, savory Scotch egg does not naturally bridge toward the airy sweetness of a macaron, creating minimal thematic continuity.
+
+Drink–Dessert Balance (15/20): Coke Zero’s carbonation provides structural contrast to the macaron’s texture, though sweetness overlap reduces sophistication.
+
+Total Score: 72/100
+
+Overall Evaluation: The menu offers adequate palate cleansing and contrast, but stylistic inconsistency between heavy savory items and delicate dessert limits full cohesion.
+
+example 8)
+
+Appetizer: Mashed Potato
+Main Dish: Grilled Tofu
+Drink: Modelo Beer
+Dessert: Muffin
+
+Appetizer–Main Dish Balance (15/20): The creamy texture of mashed potato aligns with the soft structure of grilled tofu, though the pairing lacks textural contrast and dynamic progression.
+
+Main Dish–Drink Balance (17/20): Modelo beer’s carbonation and mild bitterness effectively balance the subtle savoriness of grilled tofu, enhancing palate clarity without overpowering it.
+
+Main Dish–Dessert Balance (14/20): The sweet density of a muffin contrasts the light, savory tofu, but the transition feels somewhat disconnected in flavor narrative.
+
+Appetizer–Dessert Balance (13/20): Mashed potato’s starchy creaminess does not conflict with a muffin, yet both share a soft carbohydrate profile that reduces contrast.
+
+Drink–Dessert Balance (16/20): The beer’s carbonation cuts through the muffin’s sweetness, though bitterness and sweetness interaction may not achieve refined harmony.
+
+Total Score: 75/100
+
+Overall Evaluation: The menu maintains structural stability with a solid beverage pairing, but limited contrast and flavor linkage between savory and sweet elements moderate overall cohesion.
+
+example 9)
+
+Appetizer: Nachos
+Main Dish: Fish and Chips
+Drink: Coffee
+Dessert: Dango
+
+Appetizer–Main Dish Balance (14/20): Nachos and fish and chips both emphasize fried textures and salt-forward profiles, creating thematic consistency but limited structural contrast.
+
+Main Dish–Drink Balance (9/20): Coffee’s bitterness and roasted intensity conflict with the delicate maritime flavors of fish and the fried batter, resulting in a technically weak pairing.
+
+Main Dish–Dessert Balance (13/20): Dango’s mild sweetness and chewy texture provide contrast to the crisp fried fish, yet the cultural and flavor transition feels abrupt.
+
+Appetizer–Dessert Balance (12/20): The heavily seasoned, savory nachos do not naturally align with the subtle sweetness of dango, limiting continuity across the meal.
+
+Drink–Dessert Balance (17/20): Coffee pairs effectively with the gentle sweetness of dango, as bitterness and starch-based sweetness create a balanced finishing dynamic.
+
+Total Score: 65/100
+
+Overall Evaluation: The menu suffers from beverage mismatch and cumulative heaviness in the savory courses, with only the drink–dessert pairing providing strong structural balance.
+
+example 10)
+
+Appetizer: Pasta
+Main Dish: Salmon Steak
+Drink: Water
+Dessert: Churro
+
+Appetizer–Main Dish Balance (17/20): The moderate richness of pasta transitions smoothly into the structured protein and fat of salmon steak, maintaining cohesion without excessive heaviness.
+
+Main Dish–Drink Balance (14/20): Water provides effective palate cleansing for salmon’s natural oils, though it contributes no flavor enhancement to the pairing.
+
+Main Dish–Dessert Balance (13/20): The deep-fried sweetness of a churro contrasts the savory salmon, but the shift from refined seafood to sugary pastry feels stylistically disconnected.
+
+Appetizer–Dessert Balance (12/20): Pasta and churro both emphasize carbohydrate density, resulting in limited contrast and reduced structural progression.
+
+Drink–Dessert Balance (15/20): Water neutralizes the churro’s sweetness effectively, yet the absence of complementary flavor limits sophistication.
+
+Total Score: 71/100
+
+Overall Evaluation: The menu maintains structural stability in the savory progression, but carbohydrate repetition and minimal beverage contribution reduce overall refinement.
+
+example 11)
+
+Appetizer: Miso Soup
+Main Dish: Sushi
+Drink: Sake
+Dessert: Dango
+
+Appetizer–Main Dish Balance (19/20): The light, umami-forward miso soup prepares the palate seamlessly for sushi, creating a cohesive and culturally consistent progression.
+
+Main Dish–Drink Balance (19/20): Sake complements sushi through shared rice-derived notes and balanced acidity, enhancing umami without overpowering delicate seafood flavors.
+
+Main Dish–Dessert Balance (17/20): Dango provides mild sweetness and soft texture after sushi, offering a gentle transition that preserves meal harmony.
+
+Appetizer–Dessert Balance (16/20): The subtle savoriness of miso contrasts moderately with dango’s sweetness, maintaining balance though without strong flavor linkage.
+
+Drink–Dessert Balance (18/20): Sake’s smooth body and controlled sweetness align naturally with dango’s rice-based composition, reinforcing thematic continuity.
+
+Total Score: 89/100
+
+Overall Evaluation: The menu demonstrates strong cultural coherence, balanced flavor progression, and refined beverage integration, resulting in a highly harmonious composition.
+
+example 12)
+
+Appetizer: Cheese
+Main Dish: Ramen
+Drink: Coffee
+Dessert: Tart
+
+Appetizer–Main Dish Balance (15/20): The richness of cheese partially aligns with the savory depth of ramen, but the dairy-forward profile risks overshadowing the broth’s nuanced umami.
+
+Main Dish–Drink Balance (8/20): Coffee’s roasted bitterness clashes with ramen’s salty and umami-rich broth, creating a disruptive and technically weak pairing.
+
+Main Dish–Dessert Balance (16/20): The tart’s acidity and sweetness provide effective palate contrast after the dense ramen, offering structural relief.
+
+Appetizer–Dessert Balance (18/20): Cheese and tart share compatible fat-acidity dynamics, particularly if the tart contains fruit elements that complement dairy richness.
+
+Drink–Dessert Balance (17/20): Coffee pairs well with a tart by balancing sweetness through bitterness and enhancing flavor complexity.
+
+Total Score: 74/100
+
+Overall Evaluation: While the dessert and appetizer interactions are structurally sound, the beverage mismatch with the main dish significantly limits overall cohesion.
+
+example 13)
+
+Appetizer: House Bread
+Main Dish: T-bone Steak
+Drink: Red Wine
+Dessert: Ice Cream
+
+Appetizer–Main Dish Balance (17/20): The neutral starch profile of house bread provides a stable base that prepares the palate for the bold richness of T-bone steak without competing for attention.
+
+Main Dish–Drink Balance (19/20): Red wine’s tannin and acidity integrate exceptionally well with the fat and protein structure of T-bone steak, forming a technically classic pairing.
+
+Main Dish–Dessert Balance (15/20): Ice cream offers temperature and sweetness contrast after the savory steak, though the transition lacks a strong flavor bridge.
+
+Appetizer–Dessert Balance (14/20): Bread and ice cream do not conflict structurally, but both emphasize soft carbohydrate elements, limiting dynamic contrast.
+
+Drink–Dessert Balance (16/20): Depending on sweetness level, red wine can balance ice cream through acidity and tannin, though excessive dryness may reduce harmony.
+
+Total Score: 81/100
+
+Overall Evaluation: The menu demonstrates a strong and technically refined steak–wine pairing, with minor structural softness in the carbohydrate and dessert transitions.
+
+example 14)
+
+Appetizer: Salad
+Main Dish: Salmon Steak
+Drink: White Wine
+Dessert: Tart
+
+Appetizer–Main Dish Balance (18/20): The freshness of salad enhances the natural richness of salmon steak, providing clean structural progression.
+
+Main Dish–Drink Balance (19/20): White wine’s acidity and minerality integrate effectively with salmon’s fat content.
+
+Main Dish–Dessert Balance (17/20): Tart acidity refreshes the palate after the savory salmon.
+
+Appetizer–Dessert Balance (17/20): Salad and tart share brightness and acidity, maintaining thematic cohesion.
+
+Drink–Dessert Balance (17/20): White wine complements tart fruit acidity with balanced structure.
+
+Total Score: 88/100
+
+Overall Evaluation: This menu demonstrates strong acidity management and refined structural progression with cohesive flavor transitions.
+
+example 15)
+
+Appetizer: Cheese
+Main Dish: T-bone Steak
+Drink: Red Wine
+Dessert: Tart
+
+Appetizer–Main Dish Balance (19/20): Cheese amplifies and prepares the palate for the steak’s protein-rich intensity.
+
+Main Dish–Drink Balance (19/20): Red wine forms a classic, structurally optimal pairing with steak.
+
+Main Dish–Dessert Balance (16/20): Tart acidity effectively cuts residual fat from the steak.
+
+Appetizer–Dessert Balance (18/20): Cheese and tart share complementary fat-acid dynamics.
+
+Drink–Dessert Balance (17/20): Red wine’s structure aligns well with tart sweetness and acidity.
+
+Total Score: 89/100
+
+Overall Evaluation: A technically strong and cohesive menu driven by classical wine pairing principles.
+
+example 16)
+
+Appetizer: Miso Soup
+Main Dish: Sushi
+Drink: Green Tea
+Dessert: Dango
+
+Appetizer–Main Dish Balance (19/20): Miso soup transitions seamlessly into sushi with cultural and umami alignment.
+
+Main Dish–Drink Balance (18/20): Green tea’s mild bitterness cleanses the palate without overpowering sushi.
+
+Main Dish–Dessert Balance (17/20): Dango provides gentle sweetness consistent with the meal’s subtle structure.
+
+Appetizer–Dessert Balance (16/20): Miso and dango contrast lightly while preserving thematic unity.
+
+Drink–Dessert Balance (17/20): Green tea pairs cleanly with dango’s mild sweetness.
+
+Total Score: 87/100
+
+Overall Evaluation: Strong cultural coherence and controlled flavor progression create high structural harmony.
+
+example 17)
+
+Appetizer: Corn Soup
+Main Dish: Grilled Tofu
+Drink: Modelo Beer
+Dessert: Orange
+
+Appetizer–Main Dish Balance (17/20): Corn soup’s mild sweetness complements tofu’s subtle savoriness.
+
+Main Dish–Drink Balance (18/20): Beer carbonation enhances tofu’s texture while adding contrast.
+
+Main Dish–Dessert Balance (17/20): Orange refreshes effectively after the savory main dish.
+
+Appetizer–Dessert Balance (16/20): Corn and citrus share natural sweetness dynamics.
+
+Drink–Dessert Balance (15/20): Beer bitterness contrasts moderately with orange acidity.
+
+Total Score: 83/100
+
+Overall Evaluation: Balanced sweetness and carbonation dynamics create a stable and cohesive composition.
+
+example 18)
+
+Appetizer: Pasta
+Main Dish: Pizza
+Drink: Water
+Dessert: Ice Cream
+
+Appetizer–Main Dish Balance (14/20): Pasta and pizza share similar carbohydrate density, reducing contrast.
+
+Main Dish–Drink Balance (15/20): Water cleanses but adds no structural enhancement.
+
+Main Dish–Dessert Balance (15/20): Ice cream contrasts pizza but lacks narrative connection.
+
+Appetizer–Dessert Balance (14/20): Carbohydrate repetition limits progression.
+
+Drink–Dessert Balance (15/20): Water neutralizes sweetness effectively.
+
+Total Score: 73/100
+
+Overall Evaluation: Structurally acceptable but limited by carbohydrate redundancy.
+
+example 19)
+
+Appetizer: Cracker
+Main Dish: Taco
+Drink: Coke Zero
+Dessert: Muffin
+
+Appetizer–Main Dish Balance (15/20): Neutral crackers transition reasonably into bold taco flavors.
+
+Main Dish–Drink Balance (16/20): Carbonation offsets taco richness.
+
+Main Dish–Dessert Balance (14/20): Muffin contrasts savory spice but lacks thematic linkage.
+
+Appetizer–Dessert Balance (13/20): Limited structural contribution from cracker.
+
+Drink–Dessert Balance (14/20): Sweetness layering reduces complexity.
+
+Total Score: 72/100
+
+Overall Evaluation: Adequate structural balance with limited sophistication.
+
+example 20)
+
+Appetizer: Mashed Potato
+Main Dish: Fried Chicken
+Drink: Water
+Dessert: Cheesecake
+
+Appetizer–Main Dish Balance (16/20): Creamy starch transitions well into fried texture.
+
+Main Dish–Drink Balance (14/20): Water cleanses but does not enhance flavor.
+
+Main Dish–Dessert Balance (14/20): Cheesecake contrasts but increases overall richness.
+
+Appetizer–Dessert Balance (13/20): Similar soft textures reduce contrast.
+
+Drink–Dessert Balance (15/20): Neutral cleansing effect.
+
+Total Score: 72/100
+
+Overall Evaluation: Structurally stable but richness accumulation limits refinement.
+
+example 21)
+
+Appetizer: Salad
+Main Dish: Sandwich
+Drink: Green Tea
+Dessert: Macaron
+
+Appetizer–Main Dish Balance (17/20): Salad adds freshness to sandwich density.
+
+Main Dish–Drink Balance (15/20): Green tea complements moderately depending on filling.
+
+Main Dish–Dessert Balance (14/20): Macaron contrasts but lacks narrative continuity.
+
+Appetizer–Dessert Balance (16/20): Lightness continuity is maintained.
+
+Drink–Dessert Balance (14/20): Mild bitterness balances sweetness moderately.
+
+Total Score: 76/100
+
+Overall Evaluation: Light structural design with moderate flavor integration.
+
+example 22)
+
+Appetizer: Cheese
+Main Dish: Sushi
+Drink: Coffee
+Dessert: Orange
+
+Appetizer–Main Dish Balance (10/20): Cheese conflicts with sushi’s delicate seafood structure.
+
+Main Dish–Drink Balance (8/20): Coffee overwhelms sushi’s subtle flavors.
+
+Main Dish–Dessert Balance (15/20): Orange refreshes moderately.
+
+Appetizer–Dessert Balance (14/20): Citrus can partially balance cheese.
+
+Drink–Dessert Balance (16/20): Coffee and orange create acidity conflict.
+
+Total Score: 63/100
+
+Overall Evaluation: Beverage and structural clashes significantly reduce harmony.
+
+example 23)
+
+Appetizer: Nachos
+Main Dish: Ramen
+Drink: Orange Juice
+Dessert: Cheesecake
+
+Appetizer–Main Dish Balance (13/20): Both are heavy and salt-forward with limited contrast.
+
+Main Dish–Drink Balance (9/20): Orange juice clashes with ramen broth.
+
+Main Dish–Dessert Balance (14/20): Cheesecake contrasts but compounds heaviness.
+
+Appetizer–Dessert Balance (12/20): Flavor narrative is inconsistent.
+
+Drink–Dessert Balance (15/20): Acidity cuts richness moderately.
+
+Total Score: 63/100
+
+Overall Evaluation: Excessive intensity and mismatched beverage reduce overall balance.
+
+example 24)
+
+Appetizer: Cracker
+Main Dish: Fish and Chips
+Drink: Coffee
+Dessert: Churro
+
+Appetizer–Main Dish Balance (14/20): Neutral crackers add little structural value.
+
+Main Dish–Drink Balance (9/20): Coffee clashes with fried fish profile.
+
+Main Dish–Dessert Balance (13/20): Churro contrasts but intensifies heaviness.
+
+Appetizer–Dessert Balance (13/20): Carbohydrate redundancy persists.
+
+Drink–Dessert Balance (17/20): Coffee pairs acceptably with churro.
+
+Total Score: 66/100
+
+Overall Evaluation: Beverage mismatch and repeated fried elements weaken cohesion.
+
+example 25)
+
+Appetizer: House Bread
+Main Dish: Sushi
+Drink: Red Wine
+Dessert: Muffin
+
+Appetizer–Main Dish Balance (11/20): Bread disrupts the clean progression toward sushi.
+
+Main Dish–Drink Balance (9/20): Red wine overpowers sushi’s delicate balance.
+
+Main Dish–Dessert Balance (14/20): Muffin contrasts but lacks thematic integration.
+
+Appetizer–Dessert Balance (13/20): Carbohydrate overlap reduces progression.
+
+Drink–Dessert Balance (15/20): Moderate balance through sweetness interaction.
+
+Total Score: 62/100
+
+Overall Evaluation: Structural and beverage incompatibility significantly diminish overall harmony.
